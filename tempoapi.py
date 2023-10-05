@@ -2,7 +2,7 @@ import requests
 
 city = (input('Digite a cidade desejada: '))
 
-url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=25f262d03d7801f1de9c542f2329c3db&units=metric&lang=pt_br'
+url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=xxxxxxx&units=metric&lang=pt_br'
 
 
 try: 
