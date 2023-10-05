@@ -1,0 +1,44 @@
+2023-10-04 21:53:03,814 - ERROR - Erro ao obter informações meteorologicas para macapa: 'humanity'
+2023-10-04 21:53:05,145 - ERROR - Erro ao obter informações meteorologicas para santana: 'humanity'
+2023-10-04 21:53:07,297 - ERROR - Erro ao obter informações meteorologicas para fazendinha: 'humanity'
+2023-10-04 21:53:09,197 - ERROR - Erro ao obter informações meteorologicas para mazagão: 'humanity'
+2023-10-04 21:53:10,725 - ERROR - Erro ao obter informações meteorologicas para mazagão velho: 'humanity'
+2023-10-04 21:53:11,905 - ERROR - Erro ao obter informações meteorologicas para porto grande: 'humanity'
+2023-10-04 21:53:14,362 - ERROR - Erro ao obter informações meteorologicas para pedra branca: 'humanity'
+2023-10-04 21:53:18,049 - ERROR - Erro ao obter informações meteorologicas para amapa: 'humanity'
+2023-10-04 21:53:20,708 - ERROR - Erro ao obter informações meteorologicas para lourenço: 'humanity'
+2023-10-04 21:53:21,940 - ERROR - Erro ao obter informações meteorologicas para oiapoque: 'humanity'
+2023-10-04 21:53:24,092 - ERROR - Erro ao obter informações meteorologicas para itaubal: 'humanity'
+2023-10-04 22:02:56,324 - ERROR - Erro ao obter informações meteorologicas para macapa: 'str' object is not callable
+2023-10-04 22:02:59,499 - ERROR - Erro ao obter informações meteorologicas para santana: 'str' object is not callable
+2023-10-04 22:03:00,625 - ERROR - Erro ao obter informações meteorologicas para fazendinha: 'str' object is not callable
+2023-10-04 22:03:02,538 - ERROR - Erro ao obter informações meteorologicas para mazagão: 'str' object is not callable
+2023-10-04 22:03:06,564 - ERROR - Erro ao obter informações meteorologicas para mazagão velho: 'str' object is not callable
+2023-10-04 22:03:07,793 - ERROR - Erro ao obter informações meteorologicas para porto grande: 'str' object is not callable
+2023-10-04 22:03:11,070 - ERROR - Erro ao obter informações meteorologicas para pedra branca: 'str' object is not callable
+2023-10-04 22:03:13,118 - ERROR - Erro ao obter informações meteorologicas para amapa: 'str' object is not callable
+2023-10-04 22:03:18,239 - ERROR - Erro ao obter informações meteorologicas para lourenço: 'str' object is not callable
+2023-10-04 22:03:19,430 - ERROR - Erro ao obter informações meteorologicas para oiapoque: 'str' object is not callable
+2023-10-04 22:03:21,310 - ERROR - Erro ao obter informações meteorologicas para itaubal: 'str' object is not callable
+2023-10-04 22:04:27,054 - ERROR - Erro ao obter informações meteorologicas para macapa: 'module' object is not callable
+2023-10-04 22:04:28,282 - ERROR - Erro ao obter informações meteorologicas para santana: 'module' object is not callable
+2023-10-04 22:04:30,023 - ERROR - Erro ao obter informações meteorologicas para fazendinha: 'module' object is not callable
+2023-10-04 22:04:31,385 - ERROR - Erro ao obter informações meteorologicas para mazagão: 'module' object is not callable
+2023-10-04 22:04:32,606 - ERROR - Erro ao obter informações meteorologicas para mazagão velho: 'module' object is not callable
+2023-10-04 22:04:34,119 - ERROR - Erro ao obter informações meteorologicas para porto grande: 'module' object is not callable
+2023-10-04 22:04:35,348 - ERROR - Erro ao obter informações meteorologicas para pedra branca: 'module' object is not callable
+2023-10-04 22:04:36,679 - ERROR - Erro ao obter informações meteorologicas para amapa: 'module' object is not callable
+2023-10-04 22:04:39,342 - ERROR - Erro ao obter informações meteorologicas para lourenço: 'module' object is not callable
+2023-10-04 22:04:45,179 - ERROR - Erro ao obter informações meteorologicas para oiapoque: 'module' object is not callable
+2023-10-04 22:04:49,889 - ERROR - Erro ao obter informações meteorologicas para itaubal: 'module' object is not callable
+2023-10-04 22:18:10,060 - INFO - Falha na solicitação a API macapa
+2023-10-04 22:18:11,335 - INFO - Falha na solicitação a API santana
+2023-10-04 22:18:13,440 - INFO - Falha na solicitação a API fazendinha
+2023-10-04 22:18:16,514 - INFO - Falha na solicitação a API mazagão
+2023-10-04 22:18:17,740 - INFO - Falha na solicitação a API mazagão velho
+2023-10-04 22:18:19,790 - INFO - Falha na solicitação a API porto grande
+2023-10-04 22:18:21,939 - INFO - Falha na solicitação a API pedra branca
+2023-10-04 22:18:23,639 - INFO - Falha na solicitação a API amapa
+2023-10-04 22:18:28,800 - INFO - Falha na solicitação a API lourenço
+2023-10-04 22:18:32,486 - INFO - Falha na solicitação a API oiapoque
+2023-10-04 22:18:34,637 - INFO - Falha na solicitação a API itaubal

@@ -1,0 +1,55 @@
+informações meteorologicas para macapa:
+Temperatura: 28.99°C
+Clima: Algumas nuvens
+Umidade: 74
+
+informações meteorologicas para santana:
+Temperatura: 29.1°C
+Clima: Algumas nuvens
+Umidade: 74
+
+informações meteorologicas para fazendinha:
+Temperatura: 23.95°C
+Clima: Chuva leve
+Umidade: 88
+
+informações meteorologicas para mazagão:
+Temperatura: 21.43°C
+Clima: Nublado
+Umidade: 86
+
+informações meteorologicas para mazagão velho:
+Temperatura: 27.03°C
+Clima: Nublado
+Umidade: 73
+
+informações meteorologicas para porto grande:
+Temperatura: 27.35°C
+Clima: Nublado
+Umidade: 76
+
+informações meteorologicas para pedra branca:
+Temperatura: 22.9°C
+Clima: Céu limpo
+Umidade: 67
+
+informações meteorologicas para amapa:
+Temperatura: 26.8°C
+Clima: Nublado
+Umidade: 62
+
+informações meteorologicas para lourenço:
+Temperatura: 20.5°C
+Clima: Céu limpo
+Umidade: 86
+
+informações meteorologicas para oiapoque:
+Temperatura: 27.03°C
+Clima: Céu limpo
+Umidade: 83
+
+informações meteorologicas para itaubal:
+Temperatura: 28.61°C
+Clima: Nublado
+Umidade: 50
+
