@@ -19,7 +19,7 @@ with open('resultados.txt', 'w') as arquivo_resultados:
         'itaubal'
     ]
 
-    api_key = '25f262d03d7801f1de9c542f2329c3db'
+    api_key = 'xxxxxxx'
     base_url = 'https://api.openweathermap.org/data/2.5/weather'
 
     for cidade in cidades:
